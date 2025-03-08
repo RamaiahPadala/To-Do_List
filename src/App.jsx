@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import TodoList from "./components/TodoList";
-import AddTodo from "./components/AddTodo";
+import TodoList from "./Components/TodoList";
+import AddTodo from "./Components/AddTodo";
 import "./App.css";
 
 function App() {
